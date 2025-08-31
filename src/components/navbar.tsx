@@ -96,6 +96,7 @@ export default function Navbar() {
                 <span className="absolute top-0 right-0 flex items-center justify-center w-4 h-4 text-xs text-white rounded-full bg-primary -translate-y-1/2 translate-x-1/2">
                   2
                 </span>
+                
               </div>
               <span className="sr-only">Cart</span>
             </Link>
